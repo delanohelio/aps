@@ -7,36 +7,36 @@ Este repositório contém o material da disciplina **Análise e Projeto de Siste
 ## 📚 Ementa da Disciplina
 
 ### 📌 1. Introdução
-- [1.1 - O que é um padrão de projeto?](1-introducao.md)
+- ✅ [1.1 - O que é um padrão de projeto? (21/05)](1-introducao.md)
 
 ### 🏗️ 2. Padrões Criacionais
-- [2.1 - Abstract Factory](1-criacionais/1-abstract_factory.md)
-- 2.2 - Singleton (em breve)
-- 2.3 - Builder (em breve)
-- 2.4 - Factory Method (em breve)
-- 2.5 - Prototype (em breve)
+- ✅ [2.1 - Abstract Factory (26 e 28/05)](1-criacionais/1-abstract_factory.md)
+- [2.2 - Singleton (04/06)](1-criacionais/2-singleton.md)
+- [2.3 - Builder (04/06)](1-criacionais/3-builder.md)
+- [2.4 - Factory Method (11/06)](1-criacionais/4-factory_method.md)
+- [2.5 - Prototype (11/06)](1-criacionais/5-prototype.md)
 
 ### 🧩 3. Padrões Estruturais
-- 3.1 - Adapter (em breve)
-- 3.2 - Composite (em breve)
-- 3.3 - Decorator (em breve)
-- 3.4 - Facade (em breve)
-- 3.5 - Proxy (em breve)
-- 3.6 - Bridge (em breve)
-- 3.7 - Flyweight (em breve)
+- [3.1 - Adapter (18/06)](2-estruturais/1-adapter.md)
+- [3.2 - Bridge (18/06)](2-estruturais/2-bridge.md)
+- [3.3 - Composite (18/06)](2-estruturais/3-composite.md)
+- [3.4 - Decorator (23/06)](2-estruturais/4-decorator.md)
+- [3.5 - Facade (23/06)](2-estruturais/5-facade.md)
+- [3.6 - Proxy (25/06)](2-estruturais/6-proxy.md)
+- [3.7 - Flyweight (estudo em casa)](2-estruturais/7-flyweight.md)
 
 ### 🔁 4. Padrões Comportamentais
-- 4.1 - Strategy (em breve)
-- 4.2 - Observer (em breve)
-- 4.3 - Command (em breve)
-- 4.4 - Template Method (em breve)
-- 4.5 - State (em breve)
-- 4.6 - Chain of Responsibility (em breve)
-- 4.7 - Iterator (em breve)
-- 4.8 - Mediator (em breve)
-- 4.9 - Memento (em breve)
-- 4.10 - Interpreter (em breve)
-- 4.11 - Visitor (em breve)
+- [4.1 - Strategy (25/06)](3-comportamentais/1-strategy.md)
+- [4.2 - Template Method (25/06)](3-comportamentais/2-template_method.md)
+- [4.3 - Observer (02/07)](3-comportamentais/3-observer.md)
+- [4.4 - Command (02/07)](3-comportamentais/4-command.md)
+- [4.5 - Chain of Responsibility (02/07)](3-comportamentais/5-chain.md)
+- [4.6 - State (07/07)](3-comportamentais/6-state.md)
+- [4.7 - Mediator (07/07)](3-comportamentais/7-mediator.md)
+- [4.8 - Interpreter (07/07)](3-comportamentais/8-interpreter.md)
+- [4.9 - Memento (09/07)](3-comportamentais/9-memento.md)
+- [4.10 - Visitor (09/07)](3-comportamentais/10-visitor.md)
+- [4.11 - Iterator (leitura dirigida)](3-comportamentais/11-iterator.md)
 
 ---
 
@@ -52,6 +52,13 @@ Este repositório contém o material da disciplina **Análise e Projeto de Siste
 
 - *Padrões de Projetos: Soluções Reutilizáveis de Software Orientados a Objetos*  
   **Autores:** Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides (Gang of Four)
+
+---
+
+## 🛠️ Projetos
+
+- Projeto inicial simples (sem padrões) - Semana 1
+- Refatoração usando padrões - Semana 7 (09/07)
 
 ---
 
