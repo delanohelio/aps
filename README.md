@@ -57,8 +57,8 @@ Este repositório contém o material da disciplina **Análise e Projeto de Siste
 
 ## 🛠️ Projetos
 
-- Projeto inicial simples (sem padrões) - Semana 1
-- Refatoração usando padrões - Semana 7 (09/07)
+- [Projeto inicial simples (sem padrões)](projeto/projeto1.md) - Entrega 25/06
+- Refatoração usando padrões - Entrega 21/07
 
 ---
 

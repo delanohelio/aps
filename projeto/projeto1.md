@@ -145,7 +145,7 @@ Neste momento, **não se preocupe em evitar duplicações ou acoplamentos** — 
 
 ## 📅 Prazo de entrega
 
-> *(Definir com a turma)*
+> *25/06/2025 23:59*
 
 ---
 
