@@ -10,4 +10,6 @@ public interface DocumentoFactory {
     Recibo criarRecibo();
 
     Contrato criarContrato();
+
+    Relatorio relatorio();
 }

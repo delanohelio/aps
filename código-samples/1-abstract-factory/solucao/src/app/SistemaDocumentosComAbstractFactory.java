@@ -1,6 +1,7 @@
 package app;
 
 import factory.DocumentoFactory;
+import factory.Relatorio;
 import model.Contrato;
 import model.Fatura;
 import model.Recibo;
