@@ -29,7 +29,7 @@ classDiagram
         -corDeFundo: String
         -corDaFonte: String
         -nomeDaFonte: String
-        + static builder: TemaBuilder
+        +static builder(): TemaBuilder
         +comCorDeFundo(String): TemaBuilder
         +comCorDaFonte(String): TemaBuilder
         +comFonte(String, int): TemaBuilder
