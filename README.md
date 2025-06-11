@@ -11,7 +11,7 @@ Este repositório contém o material da disciplina **Análise e Projeto de Siste
 - ✅ [Abstract Factory (28/05)](1-criacionais/1-abstract_factory.md)
 - ✅ [Singleton (02/06)](1-criacionais/2-singleton.md)
 - ✅ [Builder & Factory Method (04/06)](1-criacionais/3-builder.md)
-- [ ] 11/06 (Quarta | 2h15min): Exercício Prático - Consolidação dos Padrões Criacionais
+- [ ] [11/06 (Quarta | 2h15min): Exercício Prático - Consolidação dos Padrões Criacionais](1-criacionais/5-exercicio.md)
 
 ### 🧩 2. Padrões Estruturais
 - [ ] **16/06 (Segunda | 45min): Adaptação de Interfaces** (Adapter)
