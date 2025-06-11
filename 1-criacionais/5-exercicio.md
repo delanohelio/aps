@@ -28,6 +28,7 @@ classDiagram
         <<inner>>
         -corDeFundo: String
         -corDaFonte: String
+        -nomeDaFonte: String
         +comCorDeFundo(String): TemaBuilder
         +comCorDaFonte(String): TemaBuilder
         +comFonte(String, int): TemaBuilder
