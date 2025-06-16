@@ -1,3 +1,4 @@
+import adapter.FuncionarioAdapter;
 import adapter.XmlToJsonAdapter;
 import models.JSONObject;
 import models.XMLDocument;
@@ -19,6 +20,10 @@ public class Main {
         // 2. Nosso sistema moderno não entende XML, então criamos o adaptador.
         // O adaptador "envolve" o objeto XML.
         XmlToJsonAdapter adaptador = new XmlToJsonAdapter(xml);
+
+        // 2.1 Adaptador transformador
+        FuncionarioAdapter funcionarioAdapter = new FuncionarioAdapter();
+        JSONObject dadosJson2 = funcionarioAdapter.toJSON(xml);
 
         // 3. Usamos o adaptador para fazer a conversão para o formato esperado (JSON).
         JSONObject dadosJson = adaptador.converter();

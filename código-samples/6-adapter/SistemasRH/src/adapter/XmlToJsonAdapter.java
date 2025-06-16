@@ -6,6 +6,7 @@ import models.XMLDocument;
 /**
  * O Adaptador. Sua responsabilidade é converter um objeto
  * incompatível (models.XMLDocument) para um tipo que o cliente espera (models.JSONObject).
+ * Método wrapper (envelope)
  */
 public class XmlToJsonAdapter {
     private final XMLDocument xmlDoc;
