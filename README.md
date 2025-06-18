@@ -14,16 +14,17 @@ Este repositório contém o material da disciplina **Análise e Projeto de Siste
 - ✅ [11/06 (Quarta | 2h15min): Exercício Prático - Consolidação dos Padrões Criacionais](1-criacionais/5-exercicio.md)
 
 ### 🧩 2. Padrões Estruturais
-- [ ] [**16/06 (Segunda | 45min): Adaptação de Interfaces** (Adapter)](2-estruturais/6-adapter.md)
+- ✅ [16/06 (Segunda | 45min): Adaptação de Interfaces (Adapter)](2-estruturais/6-adapter.md)
 - [ ] **18/06 (Quarta | 2h15min): Simplificando, Decorando e Controlando Acesso** (Facade, Decorator & Proxy)
-- [ ] **07/07 (Segunda | 45min): Estruturas em Árvore** (Composite)
+- [ ] **23/06 (Segunda):** ***NÃO HAVERÁ AULA***
+- [ ] **25/06 (Quarta | 2h15min): Estruturas em Árvore + Acompanhamento em Projeto** (Composite)
 
 ### 🔁 3. Padrões Comportamentais
-- [ ] **23/06 (Segunda):** ***NÃO HAVERÁ AULA***
-- [ ] **25/06 (Quarta | 2h15min): Estratégias e Esqueletos de Algoritmos + Revisão Projeto 1** (Strategy & Template Method)
+
 - [ ] **30/06 (Segunda | 45min): Gerenciando Mudanças de Estado** (State)
 - [ ] **02/07 (Quarta | 2h15min): Desacoplando Notificações e Requisições** (Observer & Command)
-- [ ] **09/07 (Quarta | 2h15min): Workshop Prático - Planejando a Refatoração do Projeto**
+- [ ] **07/07 (Segunda | 45min):Estratégias e Esqueletos de Algoritmos** (Strategy & Template Method)
+- [ ] **09/07 (Quarta | 2h15min): Acompanhamento em Projeto**
 
 ---
 
