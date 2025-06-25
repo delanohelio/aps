@@ -15,9 +15,9 @@ Este repositório contém o material da disciplina **Análise e Projeto de Siste
 
 ### 🧩 2. Padrões Estruturais
 - ✅ [16/06 (Segunda | 45min): Adaptação de Interfaces (Adapter)](2-estruturais/6-adapter.md)
-- [ ] 18/06 (Quarta | 2h15min): Simplificando, Decorando e Controlando Acesso ([Facade](2-estruturais/7-facade.md), [Decorator](2-estruturais/8-decorator.md) & [Proxy](2-estruturais/9-proxy.md))
-- [ ] **23/06 (Segunda):** ***NÃO HAVERÁ AULA***
-- [ ] **25/06 (Quarta | 2h15min): Estruturas em Árvore + Acompanhamento em Projeto** (Composite)
+- ✅ 18/06 (Quarta | 2h15min): Simplificando, Decorando e Controlando Acesso ([Facade](2-estruturais/7-facade.md), [Decorator](2-estruturais/8-decorator.md) & [Proxy](2-estruturais/9-proxy.md))
+- ✅ **23/06 (Segunda):** ***NÃO HAVERÁ AULA***
+- [ ] **25/06 (Quarta | 2h15min): Estruturas em Árvore + Acompanhamento em Projeto** ([Composite](2-estruturais/10-composite.md))
 
 ### 🔁 3. Padrões Comportamentais
 
