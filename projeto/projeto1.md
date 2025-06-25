@@ -23,7 +23,7 @@ Imagine que você foi contratado para criar um sistema básico de pedidos para u
 ## 🧰 Funcionalidades obrigatórias
 
 ### 1. Cadastro de Clientes
-- Nome, CPF, e-mail.
+- Nome, CPF, e-mail, telefone.
 
 ### 2. Cadastro de Produtos
 - Nome, preço, peso (em kg).

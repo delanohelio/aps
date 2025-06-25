@@ -45,7 +45,7 @@ Este repositório contém o material da disciplina **Análise e Projeto de Siste
 
 ## 🛠️ Projetos da Disciplina
 
-1.  **Primeira Entrega (Sem Padrões):**
+1.  **[Primeira Entrega (Sem Padrões):](projeto/projeto1.md)**
   - Implementação de um sistema de pedidos seguindo os requisitos definidos.
   - **Entrega:** 25/06/2025
 
