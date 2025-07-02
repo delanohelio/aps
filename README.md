@@ -21,8 +21,8 @@ Este repositório contém o material da disciplina **Análise e Projeto de Siste
 
 ### 🔁 3. Padrões Comportamentais
 
-- [ ] **30/06 (Segunda | 45min): Gerenciando Mudanças de Estado** ([State](3-comportamentais/11-state.md))
-- [ ] **02/07 (Quarta | 2h15min): Desacoplando Notificações e Requisições** (Observer & Command)
+- ✅ **30/06 (Segunda | 45min): Gerenciando Mudanças de Estado** ([State](3-comportamentais/11-state.md))
+- [ ] **02/07 (Quarta | 2h15min): Desacoplando Notificações e Requisições** ([Observer](3-comportamentais/12-observer.md) & [Command](3-comportamentais/13-command.md))
 - [ ] **07/07 (Segunda | 45min):Estratégias e Esqueletos de Algoritmos** (Strategy & Template Method)
 - [ ] **09/07 (Quarta | 2h15min): Acompanhamento em Projeto**
 
